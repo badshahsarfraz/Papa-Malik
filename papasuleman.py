@@ -427,7 +427,7 @@ def pilih_super():
                 whatsapp Num
                +923167149753"""
 	
-	raw_input("\n\033[1;93m[\033[1;91mBack\033[1;93m]")
+	raw_input("\n\033[1;93m[\033[1;91mSARFRAZPAPA\033[1;93m]")
 	menu()
 
 if __name__ == '__main__':
